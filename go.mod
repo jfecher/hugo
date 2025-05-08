@@ -70,5 +70,5 @@ require (
 
 go 1.16
 
-replace github.com/alecthomas/chroma@v0.9.4 => /home/rndmprsn/Programs/chroma
-replace github.com/alecthomas/chroma v0.9.4 => /home/rndmprsn/Programs/chroma
+replace github.com/alecthomas/chroma@v0.9.4 => ../chroma
+replace github.com/alecthomas/chroma v0.9.4 => ../chroma
